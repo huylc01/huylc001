@@ -1,0 +1,5 @@
+@media only screen and (max-width: 768px){
+    .pt-2-mobile{
+        padding-top: 2rem;
+    }
+}
